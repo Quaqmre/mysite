@@ -1,4 +1,4 @@
-baseURL = 'https://quaqmre.github.io/
+baseURL = 'https://quaqmre.github.io/'
 defaultContentLanguage = 'en'
 # Emoji in markdown files
 enableEmoji = true
