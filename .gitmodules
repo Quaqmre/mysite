@@ -1,3 +1,7 @@
 [submodule "themes/pico"]
 	path = themes/pico
 	url = https://github.com/negrel/hugo-theme-pico.git
+[submodule "public"]
+	path = public
+	url = https://github.com/Quaqmre/quaqmre.github.io.git
+	branch = main
