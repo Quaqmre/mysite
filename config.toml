@@ -2,7 +2,7 @@ baseURL = 'https://quaqmre.github.io/'
 defaultContentLanguage = 'en'
 # Emoji in markdown files
 enableEmoji = true
-languageCode = 'tr-TR'
+languageCode = 'en-us'
 # Number of blog post per page
 paginate = 10
 theme = 'pico'
