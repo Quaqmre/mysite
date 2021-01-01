@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/portrait.jpg"
+hero_media = "/img/afb9700c-bd7a-4cbc-af56-bf010b4e7d2f.jpeg"
 
 # Buttons
 # Add as much button as you want
@@ -25,7 +25,8 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# A theme to **express** your ideas.
+# Uzman Yazılım Geliştirici
 
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
+İşi ve hobisi yazılım olan, The Dark Side'a çoktan geçmiş bir yazılım geliştirici,
 
+May Force Be With U

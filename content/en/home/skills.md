@@ -5,30 +5,46 @@ weight = 20  # Order that this section will appear.
 
 # Uncomment the following line and widget will NOT be displayed
 # hidden = true
+# sakın unutma categoriese eklemen gerekli bara yeni bir şey eklemek için
 
-title = "Skills"
-subtitle = "I am really good at the following technical skills"
+title = "Yetenekler"
+categories=["Yazılım Dili","Teknoloji","Genel"]
 
 [[bar]]
-	icon = "/icons/precision.svg"
-	name = "Precision"
+	icon = "/icons/c4.svg"
+	name = "C#"
 	percent = "95%"
+	category = "Yazılım Dili"
 
 [[bar]]
-	icon = "/icons/heat.svg"
-	name = "Heat Control"
-	percent = "90%"
-
+	icon = "/icons/go.svg"
+	name = "Golang"
+	percent = "95%"
+	category = "Yazılım Dili"
+[[bar]]
+	icon = "/icons/js.svg"
+	name = "JavaScript"
+	percent = "60%"
+	category = "Yazılım Dili"
+[[bar]]
+	icon = "/icons/java.svg"
+	name = "Java"
+	percent = "50%"
+	category = "Yazılım Dili"
 
 [[bar]]
-	icon = "/icons/chicken.svg"
-	name = "Quality of Food"
+	icon = "/icons/allinone/*"
+	name = "Docker,Redis,Nginx,Rabbitmq,Git,kubernetes"
 	percent = "87%"
+	category = "Teknoloji"
+
 
 
 [[bar]]
-	icon = "/icons/presentation.svg"
-	name = "Presentation"
-	percent = "75%"
+	icon = "/icons/microservices.svg"
+	name = "Mikro Servis Mimarisi"
+	percent = "80%"
+	category = "Genel"
+
 
 +++

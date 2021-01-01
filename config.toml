@@ -20,7 +20,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # For blog page description you can overwrite it 
 # in the front matter
 description = "Boilerplate website"
-email = "mail@example.com"
+email = "tatarmehmetakif@gmail.com"
 favicon = '/favicon.png'
 
 # Social parameters for contact_icons widget
@@ -97,13 +97,13 @@ tag = "tags"
 contentDir = 'content/en'
 languageCode = 'en'
 languageName = 'English'
-weight = 0
+weight = 1
 
-[languages.fr]
-contentDir = 'content/fr'
-languageCode = 'fr'
-languageName = 'Français'
-weight = 2
+#[languages.fr]
+#contentDir = 'content/fr'
+#languageCode = 'fr'
+#languageName = 'Français'
+#weight = 2
 
 # Uncomment the following lines to add an italian translation.
 # [languages.it]

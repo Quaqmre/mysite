@@ -13,18 +13,22 @@ subtitle = "What lead me to acquire experience."
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
 [[period]]
-  title = "Chief cook"
-  subtitle = "Krusty krab"
-  location = "Bikini Bottom"
-  date_start = "2017-01-01"
+  title = "Uzman Yazılım Geliştirici"
+  subtitle = ""
+  location = "Akbank"
+  date_start = "2020-07-01"
   date_end = ""
-  description = "Chief cook of the biggest restaurant of Bikini Bottom."
+  description = "Yeni geliştirilmeye başlayan projede Backend Java geliştirici olarak çalışmaktayım"
+  blog = "akbank"
 
 [[period]]
-  title = "Trainee cook"
-  subtitle = "Krusty krab"
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = "I learned the basics of cooking, the passion and the secrets of a good burger."
+  title = "Yazılım Geliştirici"
+  subtitle = ""
+  location = "ePlatform"
+  date_start = "2018-10-01"
+  date_end = "2020-07-01"
+  description = "Full Stack Yazılım Geliştirici olarak Turkcell e-Şirket projesinde çalıştım"
+  blog = "eplatform"
+
+
 +++
