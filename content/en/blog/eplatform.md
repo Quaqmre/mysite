@@ -3,11 +3,11 @@ title = "Profesyonel Yazılım Hayatımdaki ilk adımlarım"
 subtitle = "Full Stack Yazılım Geliştirici"
 date = 2021-01-01
 tags = ['experiences']
+description = "Web Uygulaması Maceram"
+banner = 'img/dennis.jpeg'
 
 
 # For description meta tag
-description = "Web Uygulaması Maceram"
-banner = 'img/dennis.jpeg'
 
 +++
 
